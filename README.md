@@ -1,2 +1,2 @@
 # Name-and-Major
-Just another repository
+Rahul Mishra CS
